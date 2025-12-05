@@ -23,6 +23,12 @@
 
 ### Agentic AI and Agents
 
+▶ How to Build a Meta-Cognitive AI Agent That Dynamically Adjusts Its Own Reasoning Depth for Efficient Problem Solving [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/meta_cognitive_reasoning_controller_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/03/how-to-build-a-meta-cognitive-ai-agent-that-dynamically-adjusts-its-own-reasoning-depth-for-efficient-problem-solving/)
+
+▶ A Coding Guide to Design an Agentic AI System Using a Control-Plane Architecture for Safe, Modular, and Scalable Tool-Driven Reasoning Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/control_plane_agentic_ai_system_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/28/a-coding-guide-to-design-an-agentic-ai-system-using-a-control-plane-architecture-for-safe-modular-and-scalable-tool-driven-reasoning-workflows/)
+
+▶ A Coding Implementation for an Agentic AI Framework that Performs Literature Analysis, Hypothesis Generation, Experimental Planning, Simulation, and Scientific Reporting [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Agentic%20AI%20Codes/agentic_scientific_discovery_pipeline_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/27/a-coding-implementation-for-an-agentic-ai-framework-that-performs-literature-analysis-hypothesis-generation-experimental-planning-simulation-and-scientific-reporting/)
+
 ▶ How to Build a Neuro-Symbolic Hybrid Agent that Combines Logical Planning with Neural Perception for Robust Autonomous Decision-Making [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/neuro_symbolic_hybrid_agent_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/24/how-to-build-a-neuro-symbolic-hybrid-agent-that-combines-logical-planning-with-neural-perception-for-robust-autonomous-decision-making/)
 
 ▶ How to Design a Mini Reinforcement Learning Environment-Acting Agent with Intelligent Local Feedback, Adaptive Decision-Making, and Multi-Agent Coordination [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/AI%20Agents%20Codes/agentic_multi_agent_rl_gridworld_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/22/how-to-design-a-mini-reinforcement-learning-environment-acting-agent-with-intelligent-local-feedback-adaptive-decision-making-and-multi-agent-coordination/)
@@ -183,6 +189,10 @@
 
 ### Machine Learning & Data Science
 
+▶ How to Design an Advanced Multi-Page Interactive Analytics Dashboard with Dynamic Filtering, Live KPIs, and Rich Visual Exploration Using Panel [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/advanced_panel_interactive_dashboard_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/30/how-to-design-an-advanced-multi-page-interactive-analytics-dashboard-with-dynamic-filtering-live-kpis-and-rich-visual-exploration-using-panel/)
+
+▶ How We Learn Step-Level Rewards from Preferences to Solve Sparse-Reward Environments Using Online Process Reward Learning [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Reinforcement%20learning/oprl_preference_shaped_rl_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/12/02/how-we-learn-step-level-rewards-from-preferences-to-solve-sparse-reward-environments-using-online-process-reward-learning/)
+
 ▶ How to Build an End-to-End Interactive Analytics Dashboard Using PyGWalker Features for Insightful Data Exploration [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/advanced_pygwalker_visual_analysis_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/11/how-to-build-an-end-to-end-interactive-analytics-dashboard-using-pygwalker-features-for-insightful-data-exploration/)
 
 ▶ How to Design a Fully Interactive, Reactive, and Dynamic Terminal-Based Data Dashboard Using Textual? [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Data%20Science/advanced_textual_data_dashboard_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/15/how-to-design-a-fully-interactive-reactive-and-dynamic-terminal-based-data-dashboard-using-textual/)
@@ -219,6 +229,8 @@
 ---
 
 ### LLMs,ML and Other AI Section
+
+▶ How to Implement Functional Components of Transformer and Mini-GPT Model from Scratch Using Tinygrad to Understand Deep Learning Internals [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/tinygrad_transformer_minigpt_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/25/how-to-implement-functional-components-of-transformer-and-mini-gpt-model-from-scratch-using-tinygrad-to-understand-deep-learning-internals/)
 
 ▶ An Implementation of Fully Traced and Evaluated Local LLM Pipeline Using Opik for Transparent, Measurable, and Reproducible AI Workflows [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/LLM%20Projects/opik_local_llm_tracing_and_evaluation_marktechpost.py) [Tutorial](https://www.marktechpost.com/2025/11/21/an-implementation-of-fully-traced-and-evaluated-local-llm-pipeline-using-opik-for-transparent-measurable-and-reproducible-ai-workflows/)
 
